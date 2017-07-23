@@ -1,0 +1,1 @@
+# Source insight configure file
